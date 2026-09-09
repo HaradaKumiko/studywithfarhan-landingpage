@@ -1,0 +1,27 @@
+# StudyWithFarhan
+
+> Farhan Rivaldy's personal learning site about DevOps, cloud, Linux, networking, homelab, AI, and learning in public.
+
+StudyWithFarhan is the personal website of Farhan Rivaldy, a DevOps Engineer who learns by building things, breaking things, and figuring out why they broke.
+
+## Topics
+
+- DevOps
+- Cloud Computing
+- Linux
+- Networking
+- Homelab
+- Artificial Intelligence
+- Large Language Models
+
+## Links
+
+- Website: https://studywithfarhan.id/
+- Email: mailto:contact.farhanrivaldy@gmail.com
+- GitHub: https://github.com/HaradaKumiko
+- Instagram: https://www.instagram.com/studywithfarhan/
+- LinkedIn: https://www.linkedin.com/in/farhanrivaldy/
+- TikTok: https://www.tiktok.com/@studywithfarhan
+- Trakteer: https://trakteer.id/studywithfarhan
+- X: https://x.com/studywithfarhan
+- YouTube: https://www.youtube.com/@studywithfarhannn
